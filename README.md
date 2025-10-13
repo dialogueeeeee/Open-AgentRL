@@ -21,14 +21,16 @@
 </p>
 
 
-> [**Demystifying Reinforcement Learning in Agentic Reasoning**](arxiv link)
->  [Zhaochen Yu](https://zhaochenyu0201.github.io/), [Ling Yang](https://yangling0818.github.io/), [Jiaru Zou](https://jiaruzouu.github.io/), [Shuicheng Yan](https://www.comp.nus.edu.sg/cs/people/yansc/), [Mengdi Wang](https://mwang.princeton.edu/), <br>**National University of Singapore, University of Illinois at Urbana-Champaign, Princeton University**<br>
-
 ## Introduction
 
 <table class="center">     <tr>     <td width=100% style="border: none"><img src="figs/overview.png" style="width:100%"></td>     </tr>     <tr>     <td width="100%" style="border: none; text-align: center; word-wrap: break-word">An overview of our research on agentic RL. </td>   </tr> </table>
 
-In this work, we systematically investigate three dimensions of agentic RL: **data, algorithms, and reasoning modes**. Our findings reveal: (1) real end-to-end trajectories and high-diversity datasets significantly outperform synthetic alternatives; (2) exploration-friendly techniques like reward clipping and entropy maintenance boost training efficiency; (3) deliberative reasoning with selective tool calls surpasses frequent invocation or verbose self-reasoning. We contribute high-quality SFT and RL datasets, demonstrating that **simple recipes enable even 4B models to outperform 32B models** on challenging benchmarks including AIME2024/2025, GPQA-Diamond, and LiveCodeBench-v6.
+In this work, we systematically investigate three dimensions of agentic RL: **data, algorithms, and reasoning modes**. Our findings reveal: 
+* Real end-to-end trajectories and high-diversity datasets significantly outperform synthetic alternatives; 
+* Exploration-friendly techniques like reward clipping and entropy maintenance boost training efficiency; 
+* Deliberative reasoning with selective tool calls surpasses frequent invocation or verbose self-reasoning. 
+
+We also contribute high-quality SFT and RL datasets, demonstrating that **simple recipes enable even 4B models to outperform 32B models** on challenging benchmarks including AIME2024/2025, GPQA-Diamond, and LiveCodeBench-v6.
 
 ## 🚩 New Updates
 
