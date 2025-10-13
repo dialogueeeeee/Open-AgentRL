@@ -1,4 +1,6 @@
-## Demystifying Reinforcement Learning in Agentic Reasoning
+<div align="center">
+<img src="figs/image.png" width="200">
+<h3>Demystifying Reinforcement Learning in Agentic Reasoning</h3></div>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2509.06949">
